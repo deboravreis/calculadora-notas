@@ -4,7 +4,7 @@
 Este projeto foi criado para aprender Git, GitHub e GitHub CLI
 
 ## Autores
-Debora, Anna, Lucas, Julia
+Debora dos Reis, Anna Laura Kelm Meregali, Lucas Semicheche, Julia D'Agostini
 
 ## Objetivo
 Praticar criacao de repositorios, commits e envio para o GitHub
